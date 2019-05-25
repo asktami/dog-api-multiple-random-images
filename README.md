@@ -1,6 +1,6 @@
 # dog-api-multiple-random-images
 
-[View Live](https://github.com/asktami/dog-api-multiple-random-images/)
+[View Live](https://asktami.github.io/dog-api-multiple-random-images/)
 
 Requirements:
 
